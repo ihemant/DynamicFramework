@@ -1,0 +1,6 @@
+framework module Pods_DynamicFramework {
+  umbrella header "Pods-DynamicFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
